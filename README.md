@@ -2,7 +2,7 @@
 A simple console program written by JAVA.
 My inspiration comes from Douban and my friend Yueyue.
 Some people say that listening to the guy you are chatting with and less talking about yourself is more friendly and empathetic.
-So I tried to write a class and method to describe a robot to chat with somebody.
+So I tried to write a class and a method to describe a robot to chat with somebody.
 Just for fun and review my basic java knowledge.Thank you for your attention.
 
 从豆瓣上获得的神奇脑洞——在交流中只倾听，回复 “是吗？”，“然后呢？”，“这样啊”和疑问语气重复对方的话的人更受欢迎。
